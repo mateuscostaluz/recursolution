@@ -1,6 +1,6 @@
 # recursolution
-Código utilizado para solucionar teste admissional de determinada empresa, de modo recursivo.
+Código utilizado como teste admissional, feito de modo recursivo.
 
-A ideia era implementar um codigo que imprimisse o desenho de uma arvore com asteriscos * e underscores _.
+A ideia é imprimir o desenho de uma árvore utilizando asteriscos * e underscores _.
 
-O codigo, executado em Python, requer a definicao previa da quantidade de linhas que deversao ser impressas.
+O código, executado em Python, requer a definição prévia da quantidade de linhas que deverão ser impressas.
